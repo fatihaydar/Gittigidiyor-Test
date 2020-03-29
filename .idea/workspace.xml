@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="newScenarios" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ybut1FjirmLEvzXuebsD9glggW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\testinium\Downloads\GittigidiyorTest-fatihbranch2\properties\driver" />
+      <recent name="C:\Users\testinium\Downloads\GittigidiyorTest-fatihbranch2\properties" />
+      <recent name="C:\Users\Monster\Desktop\SelemiumDemo-master\src\test\java\com\garantibbva" />
+      <recent name="C:\Users\testinium\Desktop\EducationProjects\SeleniumDemo\properties\driver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.garantibbva.page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.İlginizi Çekebilecek Ürünler">
+    <configuration name="SearchPageTest" type="JUnit" factoryName="JUnit">
+      <module name="GittigidiyorProje" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.GittigidiyorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.GittigidiyorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hepsiburadaTest" type="JUnit" factoryName="JUnit">
+      <module name="GittigidiyorProje" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.GittigidiyorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.garantibbva.test" />
+      <option name="MAIN_CLASS_NAME" value="com.garantibbva.test.hepsiburadaTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n11Test" type="JUnit" factoryName="JUnit">
+      <module name="GittigidiyorProje" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.GittigidiyorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.garantibbva.test" />
+      <option name="MAIN_CLASS_NAME" value="com.garantibbva.test.n11Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="GittigidiyorProje" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="GittigidiyorProje" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Populer Kategori İşlemleri" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:31" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="İlginizi Çekebilecek Ürünler" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:44" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="register (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:13" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="urun secme (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:21" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="urun secme" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:21" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.İlginizi Çekebilecek Ürünler" />
+        <item itemvalue="Gauge Execution.urun secme (1)" />
+        <item itemvalue="Gauge Execution.urun secme" />
+        <item itemvalue="Gauge Execution.Populer Kategori İşlemleri" />
+        <item itemvalue="Gauge Execution.register (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="" />
+      <created>1583223825936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583223825936</updated>
+    </task>
+    <task id="LOCAL-00001" summary="newScenarios">
+      <created>1585406850075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406850075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="newScenarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="newScenarios" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1585402322755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1585402322755" />
+    <state x="365" y="79" key="#SearchPageTest_(1)" timestamp="1585385954847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="79" key="#SearchPageTest_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585385954847" />
+    <state x="92" y="92" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583327199143">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="92" y="92" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.984@0.0.1280.984" timestamp="1583327199143" />
+    <state x="420" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585412798099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585412798099" />
+    <state x="409" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1583322441503">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="409" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1583322441503" />
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585409383616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1583324587973" />
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585409383616" />
+    <state x="365" y="79" key="#hepsiburadaTest_(1)" timestamp="1585385949400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="79" key="#hepsiburadaTest_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585385949400" />
+    <state x="365" y="67" key="#n11Test" timestamp="1585385984411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="67" key="#n11Test/0.0.1536.824@0.0.1536.824" timestamp="1585385984411" />
+    <state x="365" y="79" key="#n11Test_(1)" timestamp="1585385938231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="79" key="#n11Test_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585385938231" />
+    <state x="401" y="6" key="CommitChangelistDialog2" timestamp="1585409296811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585409296811" />
+    <state x="417" y="173" key="FileChooserDialogImpl" timestamp="1583323414142">
+      <screen x="0" y="0" width="1274" height="838" />
+    </state>
+    <state x="417" y="173" key="FileChooserDialogImpl/0.0.1274.838@0.0.1274.838" timestamp="1583323414142" />
+    <state x="591" y="328" key="Github.CreateGistDialog" timestamp="1585406804235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585406804235" />
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1585512952405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1109" height="237" key="GridCell.Tab.0.bottom/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
+    <state width="1231" height="237" key="GridCell.Tab.0.bottom/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
+    <state width="1235" height="236" key="GridCell.Tab.0.bottom/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585512952405" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585408158703" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1585512952405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1109" height="237" key="GridCell.Tab.0.center/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
+    <state width="1231" height="237" key="GridCell.Tab.0.center/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
+    <state width="1235" height="236" key="GridCell.Tab.0.center/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
+    <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585512952405" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585408158703" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1585512952405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1109" height="237" key="GridCell.Tab.0.left/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
+    <state width="1231" height="237" key="GridCell.Tab.0.left/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
+    <state width="1235" height="236" key="GridCell.Tab.0.left/0.0.1278.842@0.0.1278.842" timestamp="1583307730528" />
+    <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585512952405" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585408158703" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1585512952405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1109" height="237" key="GridCell.Tab.0.right/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
+    <state width="1231" height="237" key="GridCell.Tab.0.right/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
+    <state width="1235" height="236" key="GridCell.Tab.0.right/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
+    <state width="1237" height="236" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585512952405" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585408158703" />
+    <state width="1237" height="324" key="GridCell.Tab.1.bottom" timestamp="1583318381290">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1231" height="266" key="GridCell.Tab.1.bottom/0.0.1274.838@0.0.1274.838" timestamp="1583241694217" />
+    <state width="1237" height="324" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583318381290" />
+    <state width="1237" height="324" key="GridCell.Tab.1.center" timestamp="1583318381290">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1231" height="266" key="GridCell.Tab.1.center/0.0.1274.838@0.0.1274.838" timestamp="1583241694217" />
+    <state width="1237" height="324" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1583318381290" />
+    <state width="1237" height="324" key="GridCell.Tab.1.left" timestamp="1583318381290">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1231" height="266" key="GridCell.Tab.1.left/0.0.1274.838@0.0.1274.838" timestamp="1583241694217" />
+    <state width="1237" height="324" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1583318381290" />
+    <state width="1237" height="324" key="GridCell.Tab.1.right" timestamp="1583318381290">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1231" height="266" key="GridCell.Tab.1.right/0.0.1274.838@0.0.1274.838" timestamp="1583241694217" />
+    <state width="1237" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1583318381290" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1585409541877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585409541877" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1585512734962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="143" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583318943348" />
+    <state x="153" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585512734962" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585409275650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585409275650" />
+    <state x="357" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1585505385946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="243" key="com.intellij.ide.util.TipDialog/0.0.1278.842@0.0.1278.842" timestamp="1583301165409" />
+    <state x="357" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585505385946" />
+    <state x="370" y="246" key="extract.method.dialog" timestamp="1583303050095">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="246" key="extract.method.dialog/0.0.1280.984@0.0.1280.984" timestamp="1583303050095" />
+    <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1585402393724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585402393724" />
+    <state x="19" y="113" key="new project wizard" timestamp="1583323425673">
+      <screen x="0" y="0" width="1274" height="838" />
+    </state>
+    <state x="19" y="113" key="new project wizard/0.0.1274.838@0.0.1274.838" timestamp="1583323425673" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585408209128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585408209128" />
+  </component>
+</project>
